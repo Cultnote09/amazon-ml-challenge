@@ -3,7 +3,6 @@
 **Team:** sunshines  
 **Members:** Pavni Malhotra, Pranjal Samaiya, Surya Dev Gupta  
 **College:** Lakshmi Narain College of Technology Excellence (LNCTE), Bhopal  
-**Public leaderboard:** 0.870631 on the previous file. Latest holdout is 0.899.
 
 ## Problem
 
